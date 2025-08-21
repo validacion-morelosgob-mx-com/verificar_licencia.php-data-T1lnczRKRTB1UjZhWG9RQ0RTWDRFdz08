@@ -1,0 +1,177 @@
+.divSpaceMin {
+    margin-bottom: 1% !important;
+    margin-top: 1% !important;
+}
+.divSpaceMed {
+    margin-bottom: 3% !important;
+    margin-top: 3% !important;
+}
+.divSpaceMax {
+    margin-bottom: 5% !important;
+    margin-top: 5% !important;
+}
+
+.divLicencia {
+    background-color: #E0DFD5 ! important;
+    background-image: url('img/backLicencia.png');
+    background-position: center !important;
+}
+
+.imgView {
+    width: 100% !important;
+}
+.imgSView {
+    width: 70% !important;
+}
+.imgFView {
+    width: 50% !important;
+}
+.imgMView {
+    width: 10% !important;
+}
+
+.footRight {
+    transform: scaleX(-1) !important;
+}
+
+.textXSmall {
+    font-family: 'QuetzalliSans';
+    font-size: x-small !important;
+    margin: 0 !important;
+}
+.textSmall {
+    font-family: 'QuetzalliSans';
+    font-size: small !important;
+    margin: 0 !important;
+}
+.textMedium {
+    font-family: 'QuetzalliSans';
+    font-size: medium !important;
+    margin: 0 !important;
+}
+.textLarge {
+    font-family: 'QuetzalliSans';
+    font-size: large !important;
+    margin: 0 !important;
+}
+.textXLarge {
+    font-family: 'QuetzalliSans';
+    font-size: x-large !important;
+    margin: 0 !important;
+}
+.textXXLarge {
+    font-family: 'QuetzalliSans';
+    font-size: xx-large !important;
+    margin: 0 !important;
+}
+
+.textBXSmall {
+    font-weight: bold;
+    font-family: 'QuetzalliSans';
+    font-size: x-small !important;
+    margin: 0 !important;
+}
+.textBSmall {
+    font-weight: bold;
+    font-family: 'QuetzalliSans';
+    font-size: small !important;
+    margin: 0 !important;
+}
+.textBMedium {
+    font-weight: bold;
+    font-family: 'QuetzalliSans';
+    font-size: medium !important;
+    margin: 0 !important;
+}
+.textBXLarge {
+    font-weight: bold;
+    font-family: 'QuetzalliSans';
+    font-size: x-large !important;
+    margin: 0 !important;
+}
+@media (max-width: 767px) {
+    .textTypeLic {
+        font-weight: bold;
+        font-size: 75px !important;
+        margin: 0 !important;
+    }
+    .textBLarge {
+        font-weight: bold;
+        font-family: 'QuetzalliSans';
+        font-size: large !important;
+        margin: 0 !important;
+    }
+    .textBXXLarge {
+        font-weight: bold;
+        font-family: 'QuetzalliSans';
+        font-size: x-large !important;
+        margin: 0 !important;
+    }
+}
+@media (min-width: 768px) {
+    .textTypeLic {
+        font-weight: bold;
+        font-size: 50px !important;
+        margin: 0 !important;
+    }
+    .textBLarge {
+        font-weight: bold;
+        font-family: 'QuetzalliSans';
+        font-size: small !important;
+        margin: 0 !important;
+    }
+    .textBXXLarge {
+        font-weight: bold;
+        font-family: 'QuetzalliSans';
+        font-size: large !important;
+        margin: 0 !important;
+    }
+}
+@media (min-width: 992px) {
+    .textTypeLic {
+        font-weight: bold;
+        font-size: 100px !important;
+        margin: 0 !important;
+    }
+    .textBLarge {
+        font-weight: bold;
+        font-family: 'QuetzalliSans';
+        font-size: large !important;
+        margin: 0 !important;
+    }
+    .textBXXLarge {
+        font-weight: bold;
+        font-family: 'QuetzalliSans';
+        font-size: xx-large !important;
+        margin: 0 !important;
+    }
+}
+
+.backBeige {
+    background-color: #C69B70 !important;
+    background-image: url('img/backNombre.png');
+    background-repeat: round !important;
+}
+.backGreen {
+    background-position: center !important;
+    background-color: #192118 !important;
+    background-image: url('img/mask.png');
+    border-radius: 10px !important;
+}
+.backBrown {
+    background-color: #864734 !important;
+    border-radius: 10px !important;
+}
+
+.textWhite {
+    color: #FFF !important;
+}
+.textGray {
+    color: #CCCABF !important;
+}
+.textGreen {
+    color: #2A3B29 !important;
+}
+.textBrown {
+    color: #844733 !important;
+}
